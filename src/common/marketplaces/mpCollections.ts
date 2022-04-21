@@ -391,6 +391,9 @@ export const collections = {
   '2wtqpaZZArqYaja55wJ3Wp6gtitWAncG1FwabGV2yNwF': {
     ME: 'oi_kattoi',
   },
+    '1BWutmTvYPwDtmw9abTkS4Ssr8no61spGAvW1X6NDix': {
+    ME: 'solana_money_boys',
+  },
   // '': {
   //   SA: '',
   //   DE: '',
